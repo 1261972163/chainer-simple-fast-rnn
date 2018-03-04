@@ -128,7 +128,7 @@ def draw_result(out, im_scale, clss, bbox, rects, nms_thresh, conf):
                        cv.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 255), 1,
                        cv.LINE_AA)
 
-            print CLASSES[cls_id], dets[i, 4]
+            print(CLASSES[cls_id], dets[i, 4])
 
     return out
 

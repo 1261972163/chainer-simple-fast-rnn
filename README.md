@@ -46,6 +46,7 @@ Downdload pretrained model on pascal voc dataset.
 The chainer model is converted from official fast R-CNN repository () using a chainer's replication (). 
 You need to donwload mannually: https://drive.google.com/open?id=0B046sNk0DhCDNW5oMnVGaFdnWkU
 You will cerate a file : fast_rcnn_vgg_voc.model
+***Unable to download the pretraining model, cannot play!!!!
 
 ## How to use.
 First you should prepare a sample image, and then
